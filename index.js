@@ -12,7 +12,7 @@ const {
 // CONFIGURAÇÃO
 // ==================================================
 
-const TOKEN = "MTU1MzQ0OTY4OTAzMzA4OTEwNQ.GqQ5Xi.q-LxEyQF34OM-Iib8DHzVVazethD6aSW8VgMtg";
+const TOKEN = "process.env.TOKEN";
 const CLIENT_ID = "1553449689033089105";
 const GUILD_ID = "1550343531732926514";
 
